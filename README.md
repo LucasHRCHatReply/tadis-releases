@@ -8,6 +8,8 @@ langue) sont marqués, jamais effacés en silence.
 Deux moteurs, tous deux locaux : Parakeet v3 (NVIDIA, téléchargé une fois, ~470 Mo) par défaut, et le moteur de dictée
 de macOS en second avis.
 
+Version courante : 0.5.0 (14/11/2026) : page Écouter à la carte commune des apps, texte dicté qui grandit avec la parole.
+
 Ce dépôt ne contient que les versions à installer. Le code source n'est pas public. Version de démonstration : à
 essayer, pas encore à confier un travail important.
 
